@@ -11,7 +11,7 @@
 - 📊 [GitHubMonitor](https://github.com/Prizze/GitHub-monitor) - анализ репозиториев GitHub через API: звёзды, активность, популярность.
 - ❔  [AskMe](https://github.com/Prizze/AskMe_Shabalin) - сайт вопросов и ответов с тегами, лайками и рейтингом пользователей.
 
-### 📝Up-to-date СV (https://example.com/my-cv.pdf)
+### 📝Up-to-date СV
 - [Мое резюме]()
 
 ### 📫 How to reach me: 
