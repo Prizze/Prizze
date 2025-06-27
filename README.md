@@ -12,7 +12,7 @@
 - ❔  [AskMe](https://github.com/Prizze/AskMe_Shabalin) - сайт вопросов и ответов с тегами, лайками и рейтингом пользователей.
 
 ### 📝Up-to-date СV
-- [Мое резюме]()
+- [Мое резюме](https://prizze.github.io/cv.pdf)
 
 ### 📫 How to reach me: 
 - Email: sabalin291@gmail.com
