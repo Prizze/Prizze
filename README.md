@@ -1,4 +1,4 @@
-## 👋 Привет! Я Максим - Junior Go Backend Developer
+## 👋 Привет! Я Максим - Intern Go Backend Developer
 
 ### 📂 My Projects:
 - 🏡 [Квартирум](https://github.com/Prizze/Cian) - сервис по покупке, продаже и аренде недвижимости.
